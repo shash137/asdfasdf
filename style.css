@@ -130,3 +130,19 @@ h3 {
     padding: 10px;
     width: 25px;
 }
+
+.menu {
+    display: flex;
+    position: absolute;
+    flex-direction: column;
+    margin-left: 8%;
+    top: 80px;
+    text-align: left;
+    padding-left: 30px;
+
+}
+
+.menutext {
+    line-height: 50px;
+    border: 1px solid black;
+}
