@@ -8,11 +8,11 @@ body {
     background: #e1e1e1
 }
 
-.rightside {
+.leftside {
     display: flex;
     flex-direction: column;
     background: #2f3291;
-    width: 8vw;
+    width: 8%;
     align-items: center;
     height: 100%;
 }
