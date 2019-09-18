@@ -5,14 +5,14 @@
 body {
     width: 100vw;
     height: 100vh;
-    background: #e1e1e1
+    background: #ffffff;
 }
 
 .rightside {
     display: flex;
     flex-direction: column;
     background: #2f3291;
-    width: 8vw;
+    width: 8%;
     align-items: center;
     height: 100%;
 }
@@ -55,7 +55,62 @@ ul li a {
 
 .header {
     display: flex;
+    width: 92%;
+    position: absolute;
+    top: 0;
+    margin-left: 8%;
+    border-bottom: 1px solid #f2f2f2;
+    height: 80px;
+    align-items: center;
 
+}
+
+h3 {
+    font-family: 'Roboto';
+}
+
+.subscription {
+    padding-left: 30px;
+    padding-right: 15px;
+}
+
+.subspan:hover {
+    padding-bottom: 29px;
+    color: #e75253;
+    border-bottom: 1px solid #e75253;
+}
+
+.selling-points {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.sellspan:hover {
+    padding-bottom: 29px;
+    color: #e75253;
+    border-bottom: 1px solid #e75253;
+}
+
+.users {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.usersspan:hover {
+    padding-bottom: 29px;
+    color: #e75253;
+    border-bottom: 1px solid #e75253;
+}
+
+.integration {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.integspan:hover {
+    padding-bottom: 29px;
+    color: #e75253;
+    border-bottom: 1px solid #e75253;
 }
 
 .icons {
