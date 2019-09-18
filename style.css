@@ -23,13 +23,11 @@ html {
     text-align: center;
     height: 40px;
     width: 40px;
-    /* padding-bottom: 1em; */
 }
 
 
 .navbar {
     align-items: center;
-    /* display: flex; */
     flex-grow: 2;
     justify-content: center;
     margin: 0;
