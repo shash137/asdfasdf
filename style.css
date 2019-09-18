@@ -48,3 +48,9 @@ ul li a {
 .header {
     display: flex;
 }
+
+.icons img {
+    flex-direction: column;
+    width: 20px;
+    height: 20px;
+}
