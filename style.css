@@ -78,9 +78,9 @@ h3 {
 }
 
 .subspan:hover {
-    padding-bottom: 29px;
+    padding-bottom: 28px;
     color: #e75253;
-    border-bottom: 1px solid #e75253;
+    border-bottom: 3px solid #e75253;
 }
 
 .selling-points {
@@ -89,9 +89,9 @@ h3 {
 }
 
 .sellspan:hover {
-    padding-bottom: 29px;
+    padding-bottom: 28px;
     color: #e75253;
-    border-bottom: 1px solid #e75253;
+    border-bottom: 3px solid #e75253;
 }
 
 .users {
@@ -100,9 +100,9 @@ h3 {
 }
 
 .usersspan:hover {
-    padding-bottom: 29px;
+    padding-bottom: 28px;
     color: #e75253;
-    border-bottom: 1px solid #e75253;
+    border-bottom: 3px solid #e75253;
 }
 
 .integration {
@@ -111,9 +111,9 @@ h3 {
 }
 
 .integspan:hover {
-    padding-bottom: 29px;
+    padding-bottom: 28px;
     color: #e75253;
-    border-bottom: 1px solid #e75253;
+    border-bottom: 3px solid #e75253;
 }
 
 .icons {
