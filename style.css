@@ -46,6 +46,32 @@
     border-right: 1px solid #efefef;
 }
 
-.menuUL:hover {
+.menuUL {
+    margin: 0;
+}
+
+.menuUL li {
+    list-style: none;
+    line-height: 50px;
+    margin-left: 0%;
+}
+
+.menuUL li:hover {
     background: #eaf0fd;
+}
+
+.card {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 5%;
+    border: 1px solid #efefef;
+    border-radius: 10%;
+    width: 40%;
+    height: 100%;
+}
+
+button {
+    width: 80%;
+    background: #f6f5f8;
+    border: 0;
 }
