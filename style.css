@@ -21,6 +21,11 @@
     border-bottom: 1px solid #efefef
 }
 
+.underline:hover {
+    padding: 8%;
+    border-bottom: 3px solid #d35552;
+}
+
 .sidebar {
     grid-area: sidebar;
     background: #2f3291;
