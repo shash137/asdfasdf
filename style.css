@@ -45,3 +45,7 @@
     background: #fff;
     border-right: 1px solid #efefef;
 }
+
+.menuUL:hover {
+    background: #eaf0fd;
+}
