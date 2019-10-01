@@ -121,6 +121,7 @@ h3 {
 }
 
 .icons img {
+    cursor: pointer;
     flex-direction: column;
     height: 25px;
     padding: 10px;
